@@ -1,4 +1,4 @@
-# maind-creative-coding-foundation-lessons
+# MAIND-Creative-Coding-Foundation-Lessons
 
 ## About
 
