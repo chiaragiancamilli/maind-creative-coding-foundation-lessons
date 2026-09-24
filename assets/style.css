@@ -1,0 +1,5 @@
+html {
+    background-color: rgb(116,210,146);
+    font-family: 'Calibri', sans-serif, monospace;
+    font-size: 18px;   /*this is equivalent to 1rem*/
+}
